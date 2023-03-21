@@ -1017,3 +1017,7 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the PrometheusExporter project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/discourse/prometheus_exporter/blob/master/CODE_OF_CONDUCT.md).
+
+## Credits
+
+This project is maintained by Sam Saffron
